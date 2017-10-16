@@ -1,0 +1,2 @@
+# aikidomaruyama
+GitHub Pages
