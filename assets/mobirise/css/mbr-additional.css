@@ -1717,8 +1717,8 @@ body {
   background-image: url("../../../assets/images/aikido-maruyama-brasao-100-2000x1943.png");
 }
 .cid-qya0Dcpjyi {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-qya0Dcpjyi .card-img {
@@ -1742,6 +1742,7 @@ body {
 }
 .cid-qya0Dcpjyi .mbr-text {
   color: #767676;
+  text-align: center;
 }
 .cid-qya0Dcpjyi .card-wrapper {
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
@@ -1758,9 +1759,12 @@ body {
     padding: 15px;
   }
 }
+.cid-qya0Dcpjyi .card-title {
+  text-align: center;
+}
 .cid-qy9Auc2oww {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qy9Auc2oww .mbr-iconfont {
