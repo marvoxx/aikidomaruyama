@@ -1558,10 +1558,6 @@ body {
 .cid-qy9qE8ajCE .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-qy9qE8ajCE .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-qy9qE8ajCE .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-qy9qE8ajCE .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qy9qE8ajCE .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1656,10 +1652,6 @@ body {
   .cid-qy9qE8ajCE .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-qy9qE8ajCE .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-qy9qE8ajCE .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-qy9qE8ajCE .navbar-collapse.collapsing .navbar-buttons,
   .cid-qy9qE8ajCE .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1716,50 +1708,53 @@ body {
 .cid-qy9qiPocB6 {
   background-image: url("../../../assets/images/aikido-maruyama-brasao-100-2000x1943.png");
 }
-.cid-qya0Dcpjyi {
-  padding-top: 0px;
-  padding-bottom: 15px;
+.cid-qygEciPcEW {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
-.cid-qya0Dcpjyi .card-img {
+.cid-qygEciPcEW .card-img {
   background-color: #fff;
 }
-.cid-qya0Dcpjyi .card-img a {
+.cid-qygEciPcEW .card-img a {
   display: block;
   padding-top: 2rem;
 }
-.cid-qya0Dcpjyi .card-box {
+.cid-qygEciPcEW .card-box {
   background-color: #ffffff;
   padding: 2rem;
 }
-.cid-qya0Dcpjyi h4 {
+.cid-qygEciPcEW h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
 }
-.cid-qya0Dcpjyi p {
+.cid-qygEciPcEW p {
   text-align: left;
 }
-.cid-qya0Dcpjyi .mbr-text {
+.cid-qygEciPcEW .mbr-text {
   color: #767676;
   text-align: center;
 }
-.cid-qya0Dcpjyi .card-wrapper {
+.cid-qygEciPcEW .card-wrapper {
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
-.cid-qya0Dcpjyi .card-wrapper:hover {
+.cid-qygEciPcEW .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
 @media (min-width: 992px) {
-  .cid-qya0Dcpjyi .my-col {
+  .cid-qygEciPcEW .my-col {
     flex: 0 0 20%;
     max-width: 20%;
     padding: 15px;
   }
 }
-.cid-qya0Dcpjyi .card-title {
+.cid-qygEciPcEW .card-title DIV {
+  text-align: center;
+}
+.cid-qygEciPcEW .card-title {
   text-align: center;
 }
 .cid-qy9DdrPz6q {
@@ -1808,7 +1803,7 @@ body {
   }
 }
 .cid-qy9Auc2oww {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
@@ -2122,10 +2117,6 @@ body {
 .cid-qy9qE8ajCE .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-qy9qE8ajCE .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-qy9qE8ajCE .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-qy9qE8ajCE .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qy9qE8ajCE .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2219,10 +2210,6 @@ body {
   .cid-qy9qE8ajCE .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qy9qE8ajCE .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-qy9qE8ajCE .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-qy9qE8ajCE .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-qy9qE8ajCE .navbar-collapse.collapsing .navbar-buttons,
   .cid-qy9qE8ajCE .navbar-collapse.show .navbar-buttons {
@@ -2609,10 +2596,6 @@ body {
 .cid-qy9qE8ajCE .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-qy9qE8ajCE .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-qy9qE8ajCE .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-qy9qE8ajCE .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qy9qE8ajCE .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2706,10 +2689,6 @@ body {
   .cid-qy9qE8ajCE .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qy9qE8ajCE .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-qy9qE8ajCE .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-qy9qE8ajCE .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-qy9qE8ajCE .navbar-collapse.collapsing .navbar-buttons,
   .cid-qy9qE8ajCE .navbar-collapse.show .navbar-buttons {
